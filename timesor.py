@@ -7,9 +7,9 @@ dizit = toku.readlines()
 print(dizit)
 
 
-gonderici_mail = 'esma.ackgz067@gmail.com'
+gonderici_mail = ''
 gonderici_sifre = ''
-alicilar = ['esma.ackgz067@gmail.com']
+alicilar = ['']
 
 
 pattern = "\d{4}[/.-]\w{2,3}[/.-]\d{2}|\d{8}|\d{1,2}[/.-]\w{1,3}[/.-]\d{4}|\w{1,4}[ ]\w{2,3}[ ]\d{4}"
