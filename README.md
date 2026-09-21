@@ -1,8 +1,8 @@
 # Domain WHOIS and DNS Monitor
 
-This project is a Python-based domain monitoring tool. It reads a list of domain names, runs WHOIS queries, extracts registration details with TLD-specific patterns, checks DNS/IP records, and sends email alerts when a domain expiration date is close.
+This project is a Python-based domain monitoring tool. It reads a list of domain names, runs WHOIS queries, extracts registration details with TLD-specific patterns, checks DNS/IP records and sends email alerts when a domain expiration date is close.
 
-The original project data has been cleaned for GitHub. Real domain lists, generated WHOIS output, generated DNS output, and personal email information were removed.
+The original project data has been cleaned for GitHub. Real domain lists, generated WHOIS output, generated DNS output and personal email information were removed.
 
 ## Project Structure
 
@@ -107,7 +107,7 @@ alicilar = []
 
 These values were cleaned before publishing.
 
-Fill them only on your own computer. Do not commit real email addresses, Gmail app passwords, API keys, tokens, or other secrets to GitHub.
+Fill them only on your own computer. Do not commit real email addresses, Gmail app passwords, API keys, tokens or other secrets to GitHub.
 
 ## Alert Flow
 
